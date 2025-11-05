@@ -1,0 +1,6 @@
+C:/Users/Андрей/proga/Lab3/mp2-lab3-arithmetic/CMakeFiles/ALL_BUILD.dir
+C:/Users/Андрей/proga/Lab3/mp2-lab3-arithmetic/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Андрей/proga/Lab3/mp2-lab3-arithmetic/gtest/CMakeFiles/gtest.dir
+C:/Users/Андрей/proga/Lab3/mp2-lab3-arithmetic/samples/CMakeFiles/main.dir
+C:/Users/Андрей/proga/Lab3/mp2-lab3-arithmetic/src/CMakeFiles/arithmetic.dir
+C:/Users/Андрей/proga/Lab3/mp2-lab3-arithmetic/test/CMakeFiles/test.dir
